@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e8AX8DIicQtFZxqErq+x9iXqG84uSw8/zghyQOFqZrU=",
+  "Source": "MinimalAPIPostgresSQLEF",
+  "BasePath": "_content/MinimalAPIPostgresSQLEF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
